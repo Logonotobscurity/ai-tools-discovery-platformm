@@ -1,0 +1,2264 @@
+[
+  {
+    "name": "80000hours.org",
+    "url": "https://80000hours.org/problem-profiles",
+    "category": "PROBLEMS & NEED-GAP",
+    "description": "Evidence-based career guide ranking global problems by impact and showing how to help solve them."
+  },
+  {
+    "name": "NeedGap",
+    "url": "https://needgap.com",
+    "category": "PROBLEMS & NEED-GAP",
+    "description": "Community-driven platform surfacing real-world problems as inspiration for startup ideas and MVPs."
+  },
+  {
+    "name": "Startup School",
+    "url": "https://startupschool.org",
+    "category": "\uD83C\uDF93 SCHOOL",
+    "description": "Free 16-week YC curriculum with lectures, group sessions and AWS credits for early-stage founders."
+  },
+  {
+    "name": "Paul Graham Essays",
+    "url": "https://paulgraham.com",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "Timeless startup wisdom from YC co-founder on ideas, fundraising and growth."
+  },
+  {
+    "name": "Stratechery",
+    "url": "https://stratechery.com",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "Daily newsletter dissecting tech strategy and business models with unparalleled depth."
+  },
+  {
+    "name": "The Money Illusion",
+    "url": "https://themoneyillusion.com",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "Macro-economics blog exploring monetary policy and market monetarism by Scott Sumner."
+  },
+  {
+    "name": "Bayesian Investor",
+    "url": "https://www.bayesianinvestor.com",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "Quant finance blog distilling Bayesian statistics into actionable long-term investment strategies."
+  },
+  {
+    "name": "Seth’s Blog",
+    "url": "https://seths.blog",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "Daily short insights on marketing, leadership and making change from bestselling author Seth Godin."
+  },
+  {
+    "name": "HitStartup",
+    "url": "https://hitstartup.com",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "Curated library of bite-size tactics and teardowns for launching profitable side-projects."
+  },
+  {
+    "name": "Charlax Reading List",
+    "url": "https://github.com/charlax/reading-list",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "GitHub repo of 600+ engineering & product articles used by senior engineers for continual learning."
+  },
+  {
+    "name": "AOSA Book",
+    "url": "https://aosabook.org",
+    "category": "\uD83D\uDCDA BLOGS & READING LISTS",
+    "description": "Free e-books where architects of 25+ OSS projects explain design decisions and trade-offs."
+  },
+  {
+    "name": "Refactoring Guru",
+    "url": "https://refactoring.guru",
+    "category": "\uD83C\uDFD7️ SOFTWARE ARCHITECTURE & PATTERNS",
+    "description": "Visual catalog of 22 design patterns and 80+ code smells with examples in 9 languages."
+  },
+  {
+    "name": "Architecture Notes",
+    "url": "https://github.com/kettanaito/architecture-notes",
+    "category": "\uD83C\uDFD7️ SOFTWARE ARCHITECTURE & PATTERNS",
+    "description": "Curated repo of scalable system design patterns and real-world architectural decisions."
+  },
+  {
+    "name": "r/startups",
+    "url": "https://reddit.com/r/startups",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "1 M+ member community for startup feedback, resources and AMAs from serial founders."
+  },
+  {
+    "name": "r/SaaS",
+    "url": "https://reddit.com/r/SaaS",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "Subreddit focused on launching, pricing and growing software-as-a-service businesses."
+  },
+  {
+    "name": "Hacker News Ask",
+    "url": "https://news.ycombinator.com/ask",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "Tech-focused news aggregator where YC community discusses startups, code and science."
+  },
+  {
+    "name": "r/hwstartups",
+    "url": "https://reddit.com/r/hwstartups",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "Niche community discussing prototyping, manufacturing and fundraising for hardware startups."
+  },
+  {
+    "name": "FounderList",
+    "url": "https://founderlist.com",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "Curated network connecting founders to investors, advisors and early hires via warm intros."
+  },
+  {
+    "name": "CofoundersLab",
+    "url": "https://cofounderslab.com",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "400 k-member network to find co-founders via AI matching, skill tests and founder forums."
+  },
+  {
+    "name": "YC Co-founder Matching",
+    "url": "https://cofounder-matching.ycombinator.com",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "YC’s official tool to connect potential co-founders before applying to the accelerator batch."
+  },
+  {
+    "name": "AngelList Recruit",
+    "url": "https://angel.co/recruit",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "Global startup talent marketplace with 100 k+ jobs showing salary/equity up-front."
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://linkedin.com",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "Professional network of 900 M+ members for recruiting, B2B sales and thought-leadership content."
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "100 M+ developer platform for code hosting, CI/CD and social coding via pull requests."
+  },
+  {
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "category": "\uD83D\uDDE3️ COMMUNITIES & PEOPLE",
+    "description": "23 M+ questions & answers community where developers solve coding problems daily."
+  },
+  {
+    "name": "Fiverr",
+    "url": "https://fiverr.com",
+    "category": "\uD83D\uDEE0️ PROFESSIONALS & FREELANCE",
+    "description": "Global freelance marketplace offering gigs from $5 in design, dev, marketing and more."
+  },
+  {
+    "name": "FlexJobs",
+    "url": "https://flexjobs.com",
+    "category": "\uD83D\uDEE0️ PROFESSIONALS & FREELANCE",
+    "description": "Remote and flexible job board screening every posting for legitimacy and no scams."
+  },
+  {
+    "name": "Dribbble",
+    "url": "https://dribbble.com",
+    "category": "\uD83D\uDEE0️ PROFESSIONALS & FREELANCE",
+    "description": "Community where designers showcase work and get hired for freelance and full-time roles."
+  },
+  {
+    "name": "Hatchways",
+    "url": "https://hatchways.io",
+    "category": "\uD83D\uDEE0️ PROFESSIONALS & FREELANCE",
+    "description": "API-driven technical assessments that auto-grade code in Docker and sync results to ATS."
+  },
+  {
+    "name": "Upwork",
+    "url": "https://upwork.com",
+    "category": "\uD83D\uDEE0️ PROFESSIONALS & FREELANCE",
+    "description": "Global freelance marketplace connecting businesses with millions of independent professionals."
+  },
+  {
+    "name": "Flexiple",
+    "url": "https://flexiple.com",
+    "category": "\uD83D\uDEE0️ PROFESSIONALS & FREELANCE",
+    "description": "Curated network of top 1 % freelance vetted engineers and designers with 48-hour matching."
+  },
+  {
+    "name": "Toptal",
+    "url": "https://toptal.com",
+    "category": "\uD83D\uDEE0️ PROFESSIONALS & FREELANCE",
+    "description": "Exclusive network of top 3 % freelance developers, designers and finance experts rigorously vetted."
+  },
+  {
+    "name": "Levels.fyi",
+    "url": "https://levels.fyi",
+    "category": "\uD83D\uDCB0 SALARY & EQUITY",
+    "description": "Crowdsourced salary and equity data for 100 k+ tech roles with filters by level and company."
+  },
+  {
+    "name": "Stack Overflow Jobs Salary",
+    "url": "https://stackoverflow.com/jobs/salary",
+    "category": "\uD83D\uDCB0 SALARY & EQUITY",
+    "description": "Compare developer salaries by location, role and tech stack using actual survey data."
+  },
+  {
+    "name": "TotalComp",
+    "url": "https://totalcomp.io",
+    "category": "\uD83D\uDCB0 SALARY & EQUITY",
+    "description": "Startup compensation benchmarking platform aggregating salary, equity and signing bonus data."
+  },
+  {
+    "name": "Foundrs",
+    "url": "https://foundrs.com",
+    "category": "\uD83D\uDCB0 SALARY & EQUITY",
+    "description": "Equity-split calculator and legal templates for founders to divide ownership fairly."
+  },
+  {
+    "name": "WordSafety",
+    "url": "https://wordsafety.com",
+    "category": "\uD83E\uDEAA NAMING & DOMAINS",
+    "description": "Instant global trademark and cultural-sensitivity check to avoid naming pitfalls."
+  },
+  {
+    "name": "Naming Tools",
+    "url": "https://naming-tools.com",
+    "category": "\uD83E\uDEAA NAMING & DOMAINS",
+    "description": "AI-driven name generator combining keywords, syllables and industry filters."
+  },
+  {
+    "name": "NameMesh",
+    "url": "https://namemesh.com",
+    "category": "\uD83E\uDEAA NAMING & DOMAINS",
+    "description": "Smart domain generator combining keywords, synonyms and TLDs to find brandable names."
+  },
+  {
+    "name": "NameLix",
+    "url": "https://namelix.com",
+    "category": "\uD83E\uDEAA NAMING & DOMAINS",
+    "description": "AI business-name generator that produces brandable, short domains with logo previews."
+  },
+  {
+    "name": "Namechk",
+    "url": "https://namechk.com",
+    "category": "\uD83E\uDEAA NAMING & DOMAINS",
+    "description": "Instant username availability check across 100+ social networks and domains for brand protection."
+  },
+  {
+    "name": "Namify",
+    "url": "https://namify.com",
+    "category": "\uD83E\uDEAA NAMING & DOMAINS",
+    "description": "AI naming tool with industry filters, free logo and trademark checks."
+  },
+  {
+    "name": "Capbase",
+    "url": "https://capbase.com",
+    "category": "\uD83D\uDCD1 COMPLIANCE & LEGAL",
+    "description": "Delaware C-corp formation, cap-table and equity issuance with built-in 83(b) filing."
+  },
+  {
+    "name": "Avodocs",
+    "url": "https://avodocs.com",
+    "category": "\uD83D\uDCD1 COMPLIANCE & LEGAL",
+    "description": "Generate YC-grade legal documents—SAFE, PIIA, NDAs—in minutes and e-sign instantly."
+  },
+  {
+    "name": "iubenda",
+    "url": "https://iubenda.com",
+    "category": "\uD83D\uDCD1 COMPLIANCE & LEGAL",
+    "description": "Generates GDPR/CCPA compliant privacy & cookie policies and auto-updates when laws change."
+  },
+  {
+    "name": "Juro",
+    "url": "https://juro.com",
+    "category": "\uD83D\uDCD1 COMPLIANCE & LEGAL",
+    "description": "Contract-collaboration SaaS replacing Word & email with browser-native negotiation and e-signatures."
+  },
+  {
+    "name": "Stripe Atlas",
+    "url": "https://stripe.com/atlas",
+    "category": "\uD83C\uDFE2 COMPANY FORMATION",
+    "description": "Incorporate a Delaware C-corp, issue founder stock and open a Silicon Valley bank account in days."
+  },
+  {
+    "name": "StartFleet",
+    "url": "https://startfleet.io",
+    "category": "\uD83C\uDFE2 COMPANY FORMATION",
+    "description": "Incorporate US, UK or Singapore companies remotely, open bank accounts and issue equity in one flow."
+  },
+  {
+    "name": "Xolo",
+    "url": "https://xolo.io",
+    "category": "\uD83C\uDFE2 COMPANY FORMATION",
+    "description": "Remote incorporation and banking for EU e-residents, handling accounting and compliance."
+  },
+  {
+    "name": "Rust",
+    "url": "https://rust-lang.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Systems language with memory safety, concurrency and performance; beloved for CLI, web and embedded."
+  },
+  {
+    "name": "C++",
+    "url": "https://isocpp.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "High-performance language powering systems, games and browsers; ISO-standard with zero-cost abstractions."
+  },
+  {
+    "name": "Go",
+    "url": "https://golang.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Fast, simple systems language with goroutines, static binaries and built-in concurrency."
+  },
+  {
+    "name": "Java",
+    "url": "https://java.com",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Mature, cross-platform language powering Android, big-data and enterprise systems via JVM."
+  },
+  {
+    "name": "HTML Living Standard",
+    "url": "https://html.spec.whatwg.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Single canonical spec defining every HTML element, API and parser rule maintained by WHATWG."
+  },
+  {
+    "name": "TypeScript",
+    "url": "https://typescriptlang.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Typed superset of JavaScript that compiles to plain JS and catches errors at build time."
+  },
+  {
+    "name": "JavaScript",
+    "url": "https://javascript.com",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Ubiquitous scripting language of the web; runs in browsers, servers and edge functions."
+  },
+  {
+    "name": "WebAssembly",
+    "url": "https://webassembly.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Binary instruction format running near-native code in web browsers, enabling C++/Rust in JS apps."
+  },
+  {
+    "name": "PHP",
+    "url": "https://php.net",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Server-side scripting language powering 79 % of websites; fast with opcode caching and modern frameworks."
+  },
+  {
+    "name": "Ruby",
+    "url": "https://ruby-lang.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Elegant, productive language with expressive syntax and the Rails framework for web apps."
+  },
+  {
+    "name": "Lua",
+    "url": "https://lua.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Lightweight, embeddable scripting language popular in games, routers and Nginx (OpenResty)."
+  },
+  {
+    "name": "Python",
+    "url": "https://python.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Readable, versatile language dominating AI, web and automation with vast ecosystem and pip packages."
+  },
+  {
+    "name": "Julia",
+    "url": "https://julialang.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "High-performance language for numerical computing combining Python ease with C speed and multiple dispatch."
+  },
+  {
+    "name": "R",
+    "url": "https://r-project.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Statistical-computing language with 18 k+ packages for data analysis, visualization and ML."
+  },
+  {
+    "name": "GraphQL",
+    "url": "https://graphql.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Query language enabling clients to fetch exactly the data they need in a single request."
+  },
+  {
+    "name": ".NET",
+    "url": "https://dotnet.microsoft.com",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Modern, cross-platform runtime and language stack for web, cloud, desktop and game development."
+  },
+  {
+    "name": "Kotlin",
+    "url": "https://kotlinlang.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Modern, concise JVM language with null-safety, coroutines and multiplatform compilation to JS/Native."
+  },
+  {
+    "name": "Swift",
+    "url": "https://swift.org",
+    "category": "\uD83D\uDCDF PROGRAMMING LANGUAGES",
+    "description": "Apple’s safe, fast language for iOS, macOS, watchOS and server-side development."
+  },
+  {
+    "name": "PostgreSQL",
+    "url": "https://postgresql.org",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "World’s most advanced open-source relational database with JSONB, full-text search and extensions."
+  },
+  {
+    "name": "SQLite",
+    "url": "https://sqlite.org",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Self-contained, serverless SQL database embedded in billions of phones, browsers and IoT devices."
+  },
+  {
+    "name": "Memcached",
+    "url": "https://memcached.org",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "High-performance, distributed memory object caching system to speed up dynamic web apps."
+  },
+  {
+    "name": "LevelDB",
+    "url": "https://leveldb.org",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Fast key-value storage library by Google; ordered, log-structured with Snappy compression."
+  },
+  {
+    "name": "Redis",
+    "url": "https://redis.io",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "In-memory data store used as database, cache and message broker with pub/sub and streams."
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://mongodb.com",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Document database storing JSON-like objects with horizontal scaling and powerful aggregation."
+  },
+  {
+    "name": "Couchbase",
+    "url": "https://couchbase.com",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Distributed NoSQL combining JSON flexibility, N1QL SQL queries and memory-first performance at scale."
+  },
+  {
+    "name": "Neo4j",
+    "url": "https://neo4j.com",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Graph DB storing relationships natively for recommendation engines, fraud detection and network analysis."
+  },
+  {
+    "name": "Timescale",
+    "url": "https://timescale.com",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "PostgreSQL extension transforming it into a time-series DB with compression and continuous aggregates."
+  },
+  {
+    "name": "CockroachDB",
+    "url": "https://cockroachlabs.com",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Postgres-compatible, distributed SQL database surviving disk, node and zone failures with ACID guarantees."
+  },
+  {
+    "name": "ScyllaDB",
+    "url": "https://scylladb.com",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Drop-in replacement for Cassandra delivering 10× throughput via C++ and shard-per-core architecture."
+  },
+  {
+    "name": "Fly.io",
+    "url": "https://fly.io",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Globally distributed Postgres with read replicas and zero-downtime deploys on edge VMs."
+  },
+  {
+    "name": "Splitgraph",
+    "url": "https://splitgraph.com",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Versioned SQL proxy and cache for Postgres querying live APIs as if they were tables."
+  },
+  {
+    "name": "RxDB",
+    "url": "https://rxdb.info",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Reactive client-side database with replication, encryption and offline-first support for JS apps."
+  },
+  {
+    "name": "Beekeeper Studio",
+    "url": "https://beekeeperstudio.io",
+    "category": "\uD83D\uDDC4️ DATABASES",
+    "description": "Cross-platform SQL client with auto-complete, tabs and SSH tunnels for Postgres, MySQL, SQLite and more."
+  },
+  {
+    "name": "React",
+    "url": "https://reactjs.org",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Component-based UI library by Facebook for building interactive, state-driven web interfaces."
+  },
+  {
+    "name": "Angular",
+    "url": "https://angular.io",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Google’s enterprise framework for building scalable SPAs with TypeScript and RxJS."
+  },
+  {
+    "name": "Ember.js",
+    "url": "https://emberjs.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Opinionated JS framework with strong conventions, CLI generators and Octane reactivity for ambitious apps."
+  },
+  {
+    "name": "Vue.js",
+    "url": "https://vuejs.org",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Progressive JavaScript framework incrementally adoptable from simple pages to complex SPAs."
+  },
+  {
+    "name": "Svelte",
+    "url": "https://svelte.dev",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Compiler that writes imperative code to surgically update DOM, resulting in smaller bundles and faster apps."
+  },
+  {
+    "name": "Marionette.js",
+    "url": "https://marionettejs.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Backbone framework simplifying complex SPAs with views, behaviors and memory management."
+  },
+  {
+    "name": "MVP.css",
+    "url": "https://andybrewer.github.io/mvp",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Minimalist stylesheet that makes plain HTML look great without classes or build tools."
+  },
+  {
+    "name": "Tailwind CSS",
+    "url": "https://tailwindcss.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Utility-first CSS framework for rapid UI development without leaving your HTML."
+  },
+  {
+    "name": "Bootstrap",
+    "url": "https://getbootstrap.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Most popular CSS framework; responsive grid, pre-built components and utilities to ship UIs fast."
+  },
+  {
+    "name": "Radix UI",
+    "url": "https://radix-ui.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Unstyled, accessible primitives for building high-quality design systems in React."
+  },
+  {
+    "name": "Tailwind UI",
+    "url": "https://tailwindui.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Official component library of 500+ professionally designed Tailwind snippets you can copy-paste."
+  },
+  {
+    "name": "Tailwind Templates",
+    "url": "https://tailwindtemplates.io",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Curated collection of free Tailwind landing pages, dashboards and blog themes."
+  },
+  {
+    "name": "Rails",
+    "url": "https://rubyonrails.org",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Opinionated Ruby web framework emphasizing convention over configuration and rapid prototyping."
+  },
+  {
+    "name": "Laravel",
+    "url": "https://laravel.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Elegant PHP framework with expressive ORM, queues, broadcasting and batteries-included tooling."
+  },
+  {
+    "name": "Next.js",
+    "url": "https://nextjs.org",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "React framework with hybrid static/SSR, API routes and image optimization for production apps."
+  },
+  {
+    "name": "SvelteKit",
+    "url": "https://kit.svelte.dev",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Full-stack framework for Svelte with filesystem routing, SSR and adapter-based deployment."
+  },
+  {
+    "name": "Remix",
+    "url": "https://remix.run",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Full-stack React framework with server-side rendering, nested routing and progressive enhancement."
+  },
+  {
+    "name": "Deno",
+    "url": "https://deno.land",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Secure-by-default TypeScript runtime with built-in formatter, linter and URL imports—no package.json needed."
+  },
+  {
+    "name": "Node.js",
+    "url": "https://nodejs.org",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "JavaScript runtime built on Chrome V8 enabling scalable server-side and CLI applications."
+  },
+  {
+    "name": "Flutter",
+    "url": "https://flutter.dev",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Google UI toolkit compiling to native mobile, web and desktop from a single Dart codebase."
+  },
+  {
+    "name": "React Native",
+    "url": "https://reactnative.dev",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Framework to build native mobile apps using React and JavaScript, sharing 80 % code across iOS/Android."
+  },
+  {
+    "name": "FlutterFlow",
+    "url": "https://flutterflow.io",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Visual builder that exports Flutter code; drag-and-drop widgets, Firebase backend and custom functions."
+  },
+  {
+    "name": "Adalo",
+    "url": "https://adalo.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Drag-and-drop no-code builder for native mobile apps; publish to App Store & Google Play in hours."
+  },
+  {
+    "name": "Judo",
+    "url": "https://judo.app",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Visual editor that exports SwiftUI screens and animations for iOS apps without writing code."
+  },
+  {
+    "name": "Glide",
+    "url": "https://glideapps.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Turn Google Sheets into beautiful mobile apps with no code; add maps, payments and push notifications."
+  },
+  {
+    "name": "Bubble",
+    "url": "https://bubble.io",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Full-stack visual programming language that lets non-coders build scalable web apps with workflows and plugins."
+  },
+  {
+    "name": "Wix Velo",
+    "url": "https://wix.com/velo",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Full-stack development platform inside Wix for custom logic, APIs and database triggers."
+  },
+  {
+    "name": "Softr",
+    "url": "https://softr.io",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "No-code builder that turns Airtable or Google Sheets into portals, directories and client apps."
+  },
+  {
+    "name": "Utopia",
+    "url": "https://utopia.app",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Design-to-code tool that synchronizes Figma designs into React components with live updates."
+  },
+  {
+    "name": "Unflow",
+    "url": "https://unflow.com",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "No-code mobile app builder focused on onboarding flows, stories and feature announcements."
+  },
+  {
+    "name": "Jupyter",
+    "url": "https://jupyter.org",
+    "category": "⚙️ FRAMEWORKS & RUNTIMES",
+    "description": "Interactive notebooks supporting 40+ languages for data exploration, visualization and reproducible research."
+  },
+  {
+    "name": "Public-APIs",
+    "url": "https://github.com/public-apis/public-apis",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "Curated list of 1 k+ free APIs for weather, finance, games and more with usage examples."
+  },
+  {
+    "name": "Hoppscotch",
+    "url": "https://hoppscotch.io",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "Lightweight web alternative to Postman for building, testing and documenting APIs collaboratively."
+  },
+  {
+    "name": "ShaderToy",
+    "url": "https://shadertoy.com",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "Community-driven site to create, share and embed GLSL pixel shaders running in browser."
+  },
+  {
+    "name": "Tixy.land",
+    "url": "https://tixy.land",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "Code-golfing playground where 16-character formulas generate dancing pixels and audio."
+  },
+  {
+    "name": "Sliderland",
+    "url": "https://sliderland.com",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "Minimalist code-golfing playground where 16-character sliders generate generative visuals."
+  },
+  {
+    "name": "OWASP",
+    "url": "https://owasp.org",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "Non-profit providing free security resources, Top-10 lists and tools to build secure software."
+  },
+  {
+    "name": "Sqreen",
+    "url": "https://sqreen.com",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "In-app security monitoring and RASP protecting against OWASP Top 10 with zero code changes."
+  },
+  {
+    "name": "Frida",
+    "url": "https://frida.re",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "Dynamic instrumentation toolkit for reverse engineering and security testing of mobile and desktop apps."
+  },
+  {
+    "name": "Ghidra",
+    "url": "https://ghidra.re",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "NSA open-source reverse-engineering suite for analyzing malware and firmware with disassembly."
+  },
+  {
+    "name": "Qodana",
+    "url": "https://jetbrains.com/qodana",
+    "category": "\uD83D\uDEAA API & SECURITY",
+    "description": "JetBrains static-analysis cloud that finds bugs, duplicates and security issues across projects."
+  },
+  {
+    "name": "Appcircle",
+    "url": "https://appcircle.io",
+    "category": "\uD83E\uDDEA TESTING & QA",
+    "description": "Mobile CI/CD platform building, testing, signing and deploying iOS/Android apps to stores with zero scripting."
+  },
+  {
+    "name": "Awesome-Tunneling",
+    "url": "https://github.com/anderspitman/awesome-tunneling",
+    "category": "\uD83E\uDDEA TESTING & QA",
+    "description": "Curated list of tools and services for secure SSH, HTTP and TCP tunneling during development."
+  },
+  {
+    "name": "FreeCodeCamp",
+    "url": "https://freecodecamp.org",
+    "category": "\uD83D\uDCDA TRAINING & COURSES",
+    "description": "9 k-hour free curriculum of interactive coding challenges, projects and certifications from HTML to ML."
+  },
+  {
+    "name": "Codecrafters",
+    "url": "https://codecrafters.io",
+    "category": "\uD83D\uDCDA TRAINING & COURSES",
+    "description": "Hands-on courses where you rebuild Redis, Git, Docker and more to master systems programming."
+  },
+  {
+    "name": "Fly.io",
+    "url": "https://fly.io",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Globally distributed platform deploying Docker containers close to users with zero-config SSL and Postgres."
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Frontend cloud with zero-config deploys, edge functions and analytics for Next.js, Nuxt and more."
+  },
+  {
+    "name": "Render",
+    "url": "https://render.com",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Unified cloud to build and run websites, APIs and background workers with PR previews and autoscaling."
+  },
+  {
+    "name": "Railway",
+    "url": "https://railway.app",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Heroku-like PaaS with automatic deploys from Git, ephemeral environments and pay-as-you-go pricing."
+  },
+  {
+    "name": "Google App Engine",
+    "url": "https://cloud.google.com/appengine",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Fully managed serverless platform that autoscales web apps written in any standard language."
+  },
+  {
+    "name": "Dokku",
+    "url": "https://dokku.com",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Self-hosted Heroku in 100 lines of bash; git-push deployments on any Ubuntu VM with Docker."
+  },
+  {
+    "name": "Ledokku",
+    "url": "https://ledokku.com",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Web UI for Dokku that simplifies app deployment, database creation and SSL management via clicks."
+  },
+  {
+    "name": "CapRover",
+    "url": "https://caprover.com",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "One-click Docker PaaS that deploys apps, databases and SSL via CLI or web dashboard on any VPS."
+  },
+  {
+    "name": "AWS Lambda",
+    "url": "https://aws.amazon.com/lambda",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Event-driven serverless compute running code in response to HTTP, queues or cron without provisioning servers."
+  },
+  {
+    "name": "Azure Functions",
+    "url": "https://azure.microsoft.com/functions",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Serverless functions executing your code on demand with automatic scaling and integrated DevOps."
+  },
+  {
+    "name": "Google Cloud Functions",
+    "url": "https://cloud.google.com/functions",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Event-driven FaaS running Node.js, Python, Go and more in response to Pub/Sub or HTTP."
+  },
+  {
+    "name": "Piku",
+    "url": "https://github.com/piku/piku",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Tiny git-push PaaS for ARM and x86 servers; deploy Python, Node, Go apps in seconds."
+  },
+  {
+    "name": "Supabase",
+    "url": "https://supabase.com",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Open-source Firebase alternative with Postgres, auth, storage and edge functions in one platform."
+  },
+  {
+    "name": "PocketBase",
+    "url": "https://pocketbase.io",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Single-binary open-source backend bundling SQLite, real-time, auth and files; deploy on any VPS."
+  },
+  {
+    "name": "Firebase",
+    "url": "https://firebase.google.com",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Google’s BaaS for auth, real-time DB, hosting, functions and ML kits; scales from hobby to millions."
+  },
+  {
+    "name": "Parse Platform",
+    "url": "https://parseplatform.org",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Open-source backend with SDKs for auth, push, and real-time DB; self-host or use managed."
+  },
+  {
+    "name": "Appwrite",
+    "url": "https://appwrite.io",
+    "category": "☁️ PaaS / FaaS / BaaS / IaaS",
+    "description": "Open-source Firebase alternative providing auth, database, storage, and functions in a single Docker container you own."
+  },
+  {
+    "name": "Terraform",
+    "url": "https://terraform.io",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Infrastructure-as-code tool to provision cloud resources across AWS, Azure, GCP with version control."
+  },
+  {
+    "name": "Infracost",
+    "url": "https://infracost.io",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "CLI that shows cloud-cost changes in pull requests before Terraform is applied."
+  },
+  {
+    "name": "Hetzner",
+    "url": "https://hetzner.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "European cloud provider offering high-performance VMs starting €3.49, dedicated servers and block storage."
+  },
+  {
+    "name": "DigitalOcean",
+    "url": "https://digitalocean.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Developer-friendly cloud with predictable pricing, 1-click apps and managed databases starting at $5/mo."
+  },
+  {
+    "name": "Scaleway",
+    "url": "https://scaleway.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "European cloud with ARM and x86 instances, bare-metal and object storage at aggressive pricing."
+  },
+  {
+    "name": "Vultr",
+    "url": "https://vultr.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "High-frequency cloud VMs, bare metal and block storage in 25 global locations."
+  },
+  {
+    "name": "OVH",
+    "url": "https://ovh.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Global cloud and bare-metal provider with 30 data centers and GDPR-compliant hosting."
+  },
+  {
+    "name": "AWS EC2",
+    "url": "https://aws.amazon.com/ec2",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Resizable virtual machines with 500+ instance types, spot pricing and per-second billing for any workload."
+  },
+  {
+    "name": "Azure Virtual Machines",
+    "url": "https://azure.microsoft.com/virtual-machines",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Windows/Linux VMs with autoscaling, hybrid connectivity and built-in security for enterprise workloads."
+  },
+  {
+    "name": "Google Compute Engine",
+    "url": "https://cloud.google.com/compute",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Scalable VMs with custom types, GPUs and live migration running on Google’s network."
+  },
+  {
+    "name": "Oracle Cloud",
+    "url": "https://oracle.com/cloud",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Enterprise-grade IaaS/PaaS with always-free tier and strong RDBMS integration."
+  },
+  {
+    "name": "Lambda Labs",
+    "url": "https://lambdalabs.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Cloud GPUs for ML training at up to 80 % lower cost with one-click PyTorch/Jupyter."
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://cloudflare.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Global anycast CDN, DNS, DDoS protection and Workers edge compute to make sites fast and secure."
+  },
+  {
+    "name": "Constellix",
+    "url": "https://constellix.com",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "DNS traffic-management suite with geo-proximity, failover and real-time analytics for critical services."
+  },
+  {
+    "name": "Bunny.net",
+    "url": "https://bunny.net",
+    "category": "\uD83C\uDFD7️ INFRASTRUCTURE AS CODE & DNS / CDN",
+    "description": "Cost-effective CDN with 110+ PoPs, per-GB pricing and instant cache purging."
+  },
+  {
+    "name": "Algolia",
+    "url": "https://algolia.com",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Hosted search API delivering typo-tolerant, faceted, real-time search in <50 ms for web, mobile and voice apps."
+  },
+  {
+    "name": "Typesense",
+    "url": "https://typesense.org",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Open-source typo-tolerant search engine with instant faceted search and self-hosted or cloud option."
+  },
+  {
+    "name": "Elastic",
+    "url": "https://elastic.co",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Hosted Elasticsearch, Kibana and APM for scalable search, observability and SIEM."
+  },
+  {
+    "name": "Swiftype",
+    "url": "https://swiftype.com",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Enterprise site-search with AI relevance tuning and no-code crawler setup."
+  },
+  {
+    "name": "Fathom",
+    "url": "https://usefathom.com",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Privacy-first, cookie-free analytics that load in <1 KB and respect GDPR out of the box."
+  },
+  {
+    "name": "Plausible",
+    "url": "https://plausible.io",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Lightweight, open-source alternative to Google Analytics with simple dashboards and 100 % data ownership."
+  },
+  {
+    "name": "HockeyStack",
+    "url": "https://hockeystack.com",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Privacy-friendly, cookieless marketing attribution stitching together ad spend, website and CRM data."
+  },
+  {
+    "name": "Google Analytics",
+    "url": "https://analytics.google.com",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Free web analytics measuring traffic, conversions and cohorts with ML-powered insights."
+  },
+  {
+    "name": "Mixpanel",
+    "url": "https://mixpanel.com",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Product analytics measuring user flows, retention and A/B tests with retroactive funnels."
+  },
+  {
+    "name": "GoAccess",
+    "url": "https://goaccess.io",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Real-time web log analyzer producing interactive HTML reports in terminal or browser."
+  },
+  {
+    "name": "Matomo",
+    "url": "https://matomo.org",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Self-hosted Google Analytics alternative respecting privacy with 100 % data ownership and GDPR tools."
+  },
+  {
+    "name": "UXWizz",
+    "url": "https://uxwizz.com",
+    "category": "\uD83D\uDD0D SEARCH & ANALYTICS",
+    "description": "Self-hosted web-analytics dashboard with heatmaps, session replays and 100 % data ownership."
+  },
+  {
+    "name": "Sentry",
+    "url": "https://sentry.io",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Error-tracking and performance monitoring for 100+ languages and frameworks with release health."
+  },
+  {
+    "name": "Prometheus",
+    "url": "https://prometheus.io",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Open-source monitoring toolkit collecting metrics with multi-dimensional labels and powerful alerting."
+  },
+  {
+    "name": "Confluent",
+    "url": "https://confluent.io",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Fully managed Apache Kafka service with ksqlDB and 120+ pre-built connectors for real-time data pipelines."
+  },
+  {
+    "name": "Honeycomb",
+    "url": "https://honeycomb.io",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Observability platform correlating high-cardinality events for debugging distributed systems in production."
+  },
+  {
+    "name": "Rookout",
+    "url": "https://rookout.com",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Live debugging tool injecting non-breaking breakpoints to capture variables and traces in production."
+  },
+  {
+    "name": "UptimeRobot",
+    "url": "https://uptimerobot.com",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Free uptime monitoring checking sites every 5 minutes and alerting via SMS, Slack or webhooks."
+  },
+  {
+    "name": "Fluentd",
+    "url": "https://fluentd.org",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Open-source data collector unifying log and event routing to 500+ outputs like S3, ES, Kafka."
+  },
+  {
+    "name": "Logz.io",
+    "url": "https://logz.io",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Cloud observability built on open-source ELK, adding AI alerts and cost optimization for logs."
+  },
+  {
+    "name": "lnav",
+    "url": "https://lnav.org",
+    "category": "\uD83D\uDDA5️ MONITORING & LOGS",
+    "description": "Advanced terminal log file navigator with syntax highlighting, SQL queries and live tail."
+  },
+  {
+    "name": "Canva",
+    "url": "https://canva.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Drag-and-drop design tool with templates, stock photos and brand kits for non-designers."
+  },
+  {
+    "name": "Affinity Photo",
+    "url": "https://affinity.serif.com/photo",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Professional raster editor rivaling Photoshop with real-time performance and one-time license."
+  },
+  {
+    "name": "Stencil",
+    "url": "https://stencil.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Online graphic-design tool for social posts with 2 M+ royalty-free images and templates."
+  },
+  {
+    "name": "Photopea",
+    "url": "https://photopea.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Browser-based Photoshop clone supporting PSD, Sketch and RAW files with layer styles and smart objects."
+  },
+  {
+    "name": "PicsArt",
+    "url": "https://picsart.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Full-featured mobile photo editor with AI cutouts, stickers, drawing and social feed."
+  },
+  {
+    "name": "GIMP",
+    "url": "https://gimp.org",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Powerful open-source raster editor rivaling Photoshop with scripting, layers and CMYK support."
+  },
+  {
+    "name": "Motionity",
+    "url": "https://motionity.app",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Free, in-browser motion-graphics editor combining video, vector and audio timelines."
+  },
+  {
+    "name": "Figma",
+    "url": "https://figma.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Browser-based interface design tool with multiplayer editing, design systems and code-gen for CSS/iOS/Android."
+  },
+  {
+    "name": "Stage",
+    "url": "https://stage.so",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Collaborative design tool for real-time feedback, version control and stakeholder reviews."
+  },
+  {
+    "name": "MockRocket",
+    "url": "https://mockrocket.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Browser-based 3-D mockup generator for app screenshots on devices and animated videos."
+  },
+  {
+    "name": "Screely",
+    "url": "https://screely.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Instantly turn screenshots into browser mockups with customizable backgrounds and shadows."
+  },
+  {
+    "name": "Overflow",
+    "url": "https://overflow.io",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "User-flow diagramming tool that syncs with Figma/Sketch to create interactive, zoomable walkthroughs."
+  },
+  {
+    "name": "Spline",
+    "url": "https://spline.design",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Design and export interactive 3-D experiences for web with real-time collaboration."
+  },
+  {
+    "name": "Krita",
+    "url": "https://krita.org",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Free, open-source digital painting application with HDR support, brush engines and animation timeline."
+  },
+  {
+    "name": "Inkscape",
+    "url": "https://inkscape.org",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Professional vector graphics editor supporting SVG, PDF and AI formats with node editing and filters."
+  },
+  {
+    "name": "Affinity Designer",
+    "url": "https://affinity.serif.com/designer",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Vector and raster design app with unlimited artboards, one-time license and real-time performance."
+  },
+  {
+    "name": "Aseprite",
+    "url": "https://aseprite.org",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Pixel-art editor beloved by game devs for frame-by-frame animation, palettes and one-click sprite-sheet export."
+  },
+  {
+    "name": "Pixilart",
+    "url": "https://pixilart.com",
+    "category": "\uD83C\uDFA8 DESIGN & GRAPHICS",
+    "description": "Social pixel-art editor where users draw retro sprites, collaborate and share animated GIFs."
+  },
+  {
+    "name": "Color Hunt",
+    "url": "https://colorhunt.co",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Curated daily palettes organized by mood; perfect starting point for branding and web themes."
+  },
+  {
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Generate infinite palettes, lock favorite hues and export to Adobe, Sketch or CSS variables in seconds."
+  },
+  {
+    "name": "Material Color Tool",
+    "url": "https://material.io/resources/color",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Google’s official tool creating accessible color palettes for Material Design with contrast checks."
+  },
+  {
+    "name": "Colordrop.io",
+    "url": "https://colordrop.io",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Hand-picked color palettes with hex codes and one-click copy for instant UI inspiration."
+  },
+  {
+    "name": "Lospec",
+    "url": "https://lospec.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Community hub for pixel artists with palettes, tutorials and tools like sprite-index generators."
+  },
+  {
+    "name": "Subtle Patterns",
+    "url": "https://toptal.com/designers/subtlepatterns",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Collection of high-quality, tileable textures for web backgrounds free for commercial use."
+  },
+  {
+    "name": "Filters.css",
+    "url": "https://filterss.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Single CSS file providing Instagram-like photo filters via CSS filters and blend modes."
+  },
+  {
+    "name": "Glass UI Generator",
+    "url": "https://ui.glass/generator",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Online tool generating glassmorphism CSS code snippets for modern frosty-glass UI effects."
+  },
+  {
+    "name": "Android Asset Studio",
+    "url": "https://romannurik.github.io/AndroidAssetStudio",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Generates perfectly sized launcher icons, notifications, and nine-patch assets for every Android density."
+  },
+  {
+    "name": "Real Favicon Generator",
+    "url": "https://realfavicongenerator.net",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "One upload produces every favicon, manifest and meta tag needed for all devices and browsers."
+  },
+  {
+    "name": "CSS3Please",
+    "url": "https://css3please.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Live playground that shows vendor-prefixed CSS snippets and lets you copy ready-to-use rules."
+  },
+  {
+    "name": "FlexboxPlease",
+    "url": "https://flexboxplease.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Interactive cheatsheet visualizing flex properties and generating copy-paste CSS instantly."
+  },
+  {
+    "name": "Neumorphism.io",
+    "url": "https://neumorphism.io",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Generate soft-UI CSS code for neumorphic buttons and cards with customizable shadows and colors."
+  },
+  {
+    "name": "Pexels",
+    "url": "https://pexels.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Free high-resolution photos and videos you can use anywhere, searchable by color and orientation."
+  },
+  {
+    "name": "StockSnap",
+    "url": "https://stocksnap.io",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Curated collection of high-quality, CC0 images updated daily for commercial use."
+  },
+  {
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "2 M+ free high-resolution photos contributed by a global community for any use case."
+  },
+  {
+    "name": "Pixabay",
+    "url": "https://pixabay.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "2.8 M+ free images, vectors and illustrations released under CC0 for commercial use."
+  },
+  {
+    "name": "Freepik",
+    "url": "https://freepik.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Millions of free vectors, stock photos and PSDs for commercial use with attribution."
+  },
+  {
+    "name": "Flaticon",
+    "url": "https://flaticon.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "7 M+ vector icons and stickers searchable by keyword and customizable online before download."
+  },
+  {
+    "name": "The Noun Project",
+    "url": "https://thenounproject.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "Over 5 M icons created by designers worldwide, available in SVG and PNG formats."
+  },
+  {
+    "name": "Iconfinder",
+    "url": "https://iconfinder.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "5 M+ premium icons in SVG and PNG with on-the-fly color and size customization."
+  },
+  {
+    "name": "Line Icons",
+    "url": "https://lineicons.com",
+    "category": "\uD83C\uDF08 DESIGN RESOURCES",
+    "description": "2 k+ consistent line-style icons in SVG, Webfont and Figma for modern UI design."
+  },
+  {
+    "name": "OneManBand",
+    "url": "https://onemanband.co",
+    "category": "\uD83C\uDFB5 AUDIO & MUSIC",
+    "description": "AI arranger that turns simple melodies into full backing tracks across genres for musicians."
+  },
+  {
+    "name": "YouTube Audio Library",
+    "url": "https://youtube.com/audiolibrary",
+    "category": "\uD83C\uDFB5 AUDIO & MUSIC",
+    "description": "Free music and sound effects you can use in videos without copyright strikes."
+  },
+  {
+    "name": "NoCopyrightSounds",
+    "url": "https://nocopyrightsounds.co.uk",
+    "category": "\uD83C\uDFB5 AUDIO & MUSIC",
+    "description": "Royalty-free electronic music label safe for YouTube monetization and game soundtracks."
+  },
+  {
+    "name": "Riot Games Music",
+    "url": "https://riotgamesmusic.com",
+    "category": "\uD83C\uDFB5 AUDIO & MUSIC",
+    "description": "Official site streaming copyright-cleared music from League of Legends and Valorant for creators."
+  },
+  {
+    "name": "Earworm",
+    "url": "https://earworm.app",
+    "category": "\uD83C\uDFB5 AUDIO & MUSIC",
+    "description": "AI engine that generates royalty-free music loops for indie games and content creators."
+  },
+  {
+    "name": "Freesound",
+    "url": "https://freesound.org",
+    "category": "\uD83C\uDFB5 AUDIO & MUSIC",
+    "description": "Collaborative database of Creative Commons audio snippets uploaded and tagged by sound designers worldwide."
+  },
+  {
+    "name": "Freepats",
+    "url": "https://freepats.zenvoid.org",
+    "category": "\uD83C\uDFB5 AUDIO & MUSIC",
+    "description": "Archive of free, open-source instrument patches for game developers and musicians."
+  },
+  {
+    "name": "Transistor",
+    "url": "https://transistor.fm",
+    "category": "\uD83C\uDF99️ PODCAST & VOICE",
+    "description": "Podcast hosting and analytics platform with dynamic ads, private feeds and team collaboration."
+  },
+  {
+    "name": "Notion",
+    "url": "https://notion.so",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "All-in-one workspace combining docs, databases and wikis with block-based editing and API."
+  },
+  {
+    "name": "Trello",
+    "url": "https://trello.com",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Kanban-style project management with cards, checklists and power-ups for every team workflow."
+  },
+  {
+    "name": "Basecamp",
+    "url": "https://basecamp.com",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "All-in-one project HQ combining message boards, to-dos, schedules and docs to reduce meetings and email."
+  },
+  {
+    "name": "Wrike",
+    "url": "https://wrike.com",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Versatile project-management platform with Gantt, kanban, proofing and resource planning for enterprises."
+  },
+  {
+    "name": "Asana",
+    "url": "https://asana.com",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Task and OKR platform that lets product teams create timeline, kanban and calendar views with rule-based automations."
+  },
+  {
+    "name": "Smartsheet",
+    "url": "https://smartsheet.com",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Work-execution platform blending spreadsheet familiarity with project-management power and automation."
+  },
+  {
+    "name": "Zoho Projects",
+    "url": "https://zoho.com/projects",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Project-planning tool with Gantt charts, timesheets and issue tracking for agile teams."
+  },
+  {
+    "name": "Zenkit Base",
+    "url": "https://zenkit.com/base",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Flexible workspace combining mind maps, kanban, tables and calendars for personal and team productivity."
+  },
+  {
+    "name": "Hypercontext",
+    "url": "https://hypercontext.com",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Shared meeting agendas and 1-on-1 software to set goals, document decisions and track progress."
+  },
+  {
+    "name": "Lattice",
+    "url": "https://lattice.com",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "People-management platform for performance reviews, OKRs and 1-on-1s that drives employee growth."
+  },
+  {
+    "name": "Pause",
+    "url": "https://pause.so",
+    "category": "\uD83D\uDDC2️ PROJECT & TEAM",
+    "description": "Minimalist async stand-up tool for remote teams to share updates without meetings."
+  },
+  {
+    "name": "Zoho CRM",
+    "url": "https://zoho.com/crm",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Multichannel CRM with AI sales assistant, workflow automation and telephony integration."
+  },
+  {
+    "name": "HubSpot CRM",
+    "url": "https://hubspot.com/crm",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Free tier with unlimited users, email tracking, meeting scheduler and pipeline automation."
+  },
+  {
+    "name": "Freshsales",
+    "url": "https://freshsales.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Sales CRM with AI lead scoring, built-in phone, email and pipeline automation for SMBs."
+  },
+  {
+    "name": "Salesforce Essentials",
+    "url": "https://salesforce.com/essentials",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "SMB edition of CRM with lead scoring, email sync and AI insights."
+  },
+  {
+    "name": "Pipedrive",
+    "url": "https://pipedrive.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Sales CRM built around activity-based workflows, pipeline visualization and AI deal insights."
+  },
+  {
+    "name": "Rocketlane",
+    "url": "https://rocketlane.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Customer-onboarding platform combining project plans, portal and analytics to accelerate time-to-value."
+  },
+  {
+    "name": "Segment",
+    "url": "https://segment.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Customer-data platform collecting events from web, mobile, server and piping to 300+ destinations."
+  },
+  {
+    "name": "Jitsu",
+    "url": "https://jitsu.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Open-source Segment alternative to collect, transform and route event data to any warehouse in real time."
+  },
+  {
+    "name": "Crisp",
+    "url": "https://crisp.chat",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Multichannel live-chat widget with chatbots, co-browsing and shared inbox for startups."
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://zendesk.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Customer-service suite unifying email, chat, phone and social into one contextual workspace."
+  },
+  {
+    "name": "Freshdesk",
+    "url": "https://freshdesk.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Omnichannel support suite with ticketing, chatbots and field-service management for growing teams."
+  },
+  {
+    "name": "Help Scout",
+    "url": "https://helpscout.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Shared inbox, docs site and beacon chat designed for delightful customer support at scale."
+  },
+  {
+    "name": "Intercom",
+    "url": "https://intercom.com",
+    "category": "\uD83D\uDC65 CRM & SUPPORT",
+    "description": "Conversational customer platform combining chatbots, product tours and proactive messaging across web and mobile."
+  },
+  {
+    "name": "Airtable",
+    "url": "https://airtable.com",
+    "category": "\uD83D\uDCCA SPREADSHEETS & DOCS",
+    "description": "Spreadsheet-database hybrid with relational fields, automations and rich APIs to power editorial calendars to CRMs."
+  },
+  {
+    "name": "Collabora Office",
+    "url": "https://collaboraoffice.com",
+    "category": "\uD83D\uDCCA SPREADSHEETS & DOCS",
+    "description": "Enterprise-ready, real-time collaborative editing of Word, Excel and PowerPoint in browser or on-prem."
+  },
+  {
+    "name": "Coda",
+    "url": "https://coda.io",
+    "category": "\uD83D\uDCCA SPREADSHEETS & DOCS",
+    "description": "Doc that thinks like an app: tables, buttons, packs and automations replace spreadsheets, wikis and niche SaaS."
+  },
+  {
+    "name": "Google Sheets",
+    "url": "https://sheets.google.com",
+    "category": "\uD83D\uDCCA SPREADSHEETS & DOCS",
+    "description": "Collaborative spreadsheet with 400+ functions, AppScript and BigQuery connectors for lightweight BI."
+  },
+  {
+    "name": "Canva Presentations",
+    "url": "https://canva.com/presentations",
+    "category": "\uD83D\uDCFD️ PRESENTATION & VIDEO",
+    "description": "AI-powered presentation designer that auto-formats slides, suggests layouts and keeps brand styles consistent."
+  },
+  {
+    "name": "Beautiful.ai",
+    "url": "https://beautiful.ai",
+    "category": "\uD83D\uDCFD️ PRESENTATION & VIDEO",
+    "description": "AI-powered presentation designer that auto-formats slides, suggests layouts and keeps brand styles consistent."
+  },
+  {
+    "name": "Pitch",
+    "url": "https://pitch.com",
+    "category": "\uD83D\uDCFD️ PRESENTATION & VIDEO",
+    "description": "Modern presentation software combining real-time collaboration, analytics and brand templates."
+  },
+  {
+    "name": "Loom",
+    "url": "https://loom.com",
+    "category": "\uD83D\uDCFD️ PRESENTATION & VIDEO",
+    "description": "Async video messaging to record screen, cam and voice and share instantly with link tracking."
+  },
+  {
+    "name": "DeckLinks",
+    "url": "https://decklinks.co",
+    "category": "\uD83D\uDCFD️ PRESENTATION & VIDEO",
+    "description": "Turn PDF decks into interactive microsites with embedded video narration and viewer analytics."
+  },
+  {
+    "name": "Slack",
+    "url": "https://slack.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Team messaging with channels, apps and workflows that reduces email and centralizes knowledge."
+  },
+  {
+    "name": "Microsoft Teams",
+    "url": "https://teams.microsoft.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Chat, meetings and collaboration hub integrating Office apps and 3rd-party services for enterprises."
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Voice, video and chat app that scales from small teams to million-member communities with bots and slash commands."
+  },
+  {
+    "name": "Zulip",
+    "url": "https://zulip.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Open-source team chat with threaded conversations, LaTeX and 100+ integrations."
+  },
+  {
+    "name": "Mattermost",
+    "url": "https://mattermost.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Self-hosted Slack alternative with enterprise-grade security, plugins and DevOps integrations."
+  },
+  {
+    "name": "Jitsi",
+    "url": "https://jitsi.org",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "100 % open-source video conferencing you can self-host or embed via iframe with no account required."
+  },
+  {
+    "name": "Zoom",
+    "url": "https://zoom.us",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Reliable video conferencing and webinars supporting up to 1 k participants with HD recording."
+  },
+  {
+    "name": "Google Meet",
+    "url": "https://meet.google.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Secure, high-quality video meetings integrated with Google Workspace and live captions."
+  },
+  {
+    "name": "Amazon Chime",
+    "url": "https://chime.aws",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Secure, friction-free meetings with dial-in numbers and integration into AWS services and Chime SDK."
+  },
+  {
+    "name": "Daily",
+    "url": "https://daily.co",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Add one-click video calls into any web or mobile app with 5 lines of code."
+  },
+  {
+    "name": "Crowdcast",
+    "url": "https://crowdcast.io",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Interactive webinar platform with polls, Q&A stages and automatic recordings for community events."
+  },
+  {
+    "name": "Webex",
+    "url": "https://webex.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Enterprise-grade video conferencing, webinars and calling with end-to-end encryption."
+  },
+  {
+    "name": "GoToMeeting",
+    "url": "https://goto.com/meeting",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Reliable video conferencing with dial-in numbers, drawing tools and cloud recording."
+  },
+  {
+    "name": "AnyMeeting",
+    "url": "https://intermedia.com/anymeeting",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Webinar and meeting software with up to 1 k attendees, polls and cloud recording."
+  },
+  {
+    "name": "Mural",
+    "url": "https://mural.co",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Digital workspace for guided visual collaboration, design sprints and remote workshops."
+  },
+  {
+    "name": "KosyOffice",
+    "url": "https://kosyoffice.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Virtual office with spatial audio, persistent rooms and integrations for remote teams."
+  },
+  {
+    "name": "Prysm",
+    "url": "https://prysm.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Immersive meeting platform combining video, 3-D whiteboards and shared documents for design reviews."
+  },
+  {
+    "name": "Bluescape",
+    "url": "https://bluescape.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Infinite visual canvas for distributed teams to whiteboard, storyboard and review creative work in real time."
+  },
+  {
+    "name": "Remo",
+    "url": "https://remo.co",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Virtual event platform with interactive floor plans, networking tables and sponsor booths."
+  },
+  {
+    "name": "EasyRetro",
+    "url": "https://easyretro.com",
+    "category": "\uD83D\uDCAC TEAM CHAT & CONFERENCE",
+    "description": "Fun sprint retrospective tool with drag-and-drop cards, anonymous voting and action-item tracking."
+  },
+  {
+    "name": "Rackspace Email",
+    "url": "https://rackspace.com/email",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Business-grade email, calendar and contacts on your domain with 100 GB mailboxes."
+  },
+  {
+    "name": "Mail-in-a-Box",
+    "url": "https://mailinabox.email",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "One-command mail server setup for Ubuntu handling SMTP, IMAP, webmail and DNSSEC."
+  },
+  {
+    "name": "Mailu",
+    "url": "https://mailu.io",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Lightweight mail server stack with webmail, admin UI and Let’s Encrypt SSL for small VPS."
+  },
+  {
+    "name": "Mailcow",
+    "url": "https://mailcow.email",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Dockerized mail-suite bundling Postfix, Dovecot, SOGo webmail and spam filters in one compose file."
+  },
+  {
+    "name": "Zoho Mail",
+    "url": "https://zoho.com/mail",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Secure business email with 99.99 % uptime, migration tools and extensive admin controls."
+  },
+  {
+    "name": "FastMail",
+    "url": "https://fastmail.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Privacy-first email with custom domains, IMAP, CalDAV and advanced sieve rules for power users."
+  },
+  {
+    "name": "Google Workspace",
+    "url": "https://gsuite.google.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Gmail, Drive, Docs, Meet and Chat integrated for teams with 99.9 % uptime SLA."
+  },
+  {
+    "name": "Loop Email",
+    "url": "https://loopemail.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Shared inbox for teams that turns email threads into chat-like conversations and tasks."
+  },
+  {
+    "name": "KanbanMail",
+    "url": "https://kanbanmail.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Trello-style kanban inside Gmail to turn emails into actionable cards and reach inbox zero."
+  },
+  {
+    "name": "Mixmax",
+    "url": "https://mixmax.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Gmail extension adding sequences, polls, meeting links and real-time tracking to close deals faster."
+  },
+  {
+    "name": "Ugly Email",
+    "url": "https://uglyemail.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Gmail extension that uncovers and blocks email trackers to protect your privacy."
+  },
+  {
+    "name": "Clearbit Connect",
+    "url": "https://clearbit.com/connect",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Gmail extension that surfaces company, role and social data on any email recipient in one click."
+  },
+  {
+    "name": "Dropbox for Gmail",
+    "url": "https://dropbox.com/gmail",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Secure file-sharing add-on that lets you attach Dropbox links, set permissions and track downloads."
+  },
+  {
+    "name": "Box for Gmail",
+    "url": "https://box.com/gmail",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Secure file-sharing add-on that lets you attach Box links, set permissions and track downloads from inside Gmail."
+  },
+  {
+    "name": "Zoom for Gmail",
+    "url": "https://zoom.us/gmail",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Add-on to schedule and start Zoom meetings directly from Gmail with one click."
+  },
+  {
+    "name": "Gmelius",
+    "url": "https://gmelius.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Collaborative inbox with shared templates, sequences and automation inside Gmail and Slack."
+  },
+  {
+    "name": "HubSpot Sales",
+    "url": "https://hubspot.com/sales",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Email sequences, templates, meeting links and document tracking to close deals faster."
+  },
+  {
+    "name": "Mailchimp",
+    "url": "https://mailchimp.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "All-in-one marketing platform for email campaigns, automation and postcards with 250+ integrations."
+  },
+  {
+    "name": "Sendinblue",
+    "url": "https://sendinblue.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "All-in-one marketing suite covering email, SMS, WhatsApp, chat and CRM automation."
+  },
+  {
+    "name": "ConvertKit",
+    "url": "https://convertkit.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Creator-focused email marketing with visual automations, paid newsletters and subscriber tagging."
+  },
+  {
+    "name": "Mailjet",
+    "url": "https://mailjet.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Collaborative email builder and API for marketing and transactional messages with EU data residency."
+  },
+  {
+    "name": "Mandrill",
+    "url": "https://mandrillapp.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Transactional email by Mailchimp with powerful templating, rules engine and analytics."
+  },
+  {
+    "name": "Mailgun",
+    "url": "https://mailgun.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Developer email API for sending, receiving and tracking billions of transactional messages."
+  },
+  {
+    "name": "AWS SES",
+    "url": "https://aws.amazon.com/ses",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "High-deliverability email-sending service handling transactional, marketing and newsletter traffic at $0.10 per 1 k emails."
+  },
+  {
+    "name": "Postmark",
+    "url": "https://postmarkapp.com",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Transactional email service optimized for speed and deliverability with 45-day searchable logs."
+  },
+  {
+    "name": "Postal Server",
+    "url": "https://postalserver.io",
+    "category": "\uD83D\uDCE7 EMAIL & MARKETING",
+    "description": "Open-source mail delivery platform for sending emails from applications and servers with full control."
+  },
+  {
+    "name": "ButtMover",
+    "url": "https://buttmover.com",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Fun desktop reminder that nudges you to stand, stretch and hydrate via gentle animated prompts."
+  },
+  {
+    "name": "Memory Hammer",
+    "url": "https://memoryhammer.app",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Spaced-repetition flashcard app that syncs across devices and uses active recall to boost memory."
+  },
+  {
+    "name": "Untools",
+    "url": "https://untools.co",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Collection of thinking tools and frameworks to solve problems, make decisions and run workshops."
+  },
+  {
+    "name": "LoFi.co",
+    "url": "https://lofi.co",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Immersive virtual workspace with lo-fi music, Pomodoro timer and ambient sounds for deep focus."
+  },
+  {
+    "name": "Lifeat",
+    "url": "https://lifeat.io",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Virtual workspace simulating café ambience with Pomodoro timers and Spotify playlists for deep focus."
+  },
+  {
+    "name": "LoFi Cafe",
+    "url": "https://lofi.cafe",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Browser-based lo-fi music stream with animated backgrounds to help you focus or relax."
+  },
+  {
+    "name": "LoFi Limo",
+    "url": "https://lofi.limo",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Minimalist lo-fi radio with keyboard shortcuts and no signup, great for coding sessions."
+  },
+  {
+    "name": "Music for Programming",
+    "url": "https://musicforprogramming.net",
+    "category": "\uD83C\uDFF7️ PRODUCTIVITY & HEALTH",
+    "description": "Curated instrumental mixes optimized for sustained concentration while coding or studying."
+  },
+  {
+    "name": "Flurly",
+    "url": "https://flurly.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Stripe-powered checkout pages for selling digital products with pay-what-you-want pricing and instant payouts."
+  },
+  {
+    "name": "Ko-fi",
+    "url": "https://ko-fi.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Tip-jar platform for creators; one-link page to accept support, sell extras and build a member community."
+  },
+  {
+    "name": "Buy Me a Coffee",
+    "url": "https://buymeacoffee.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Simple tip-jar page for creators to receive one-off or recurring support and sell digital extras."
+  },
+  {
+    "name": "itch.io",
+    "url": "https://itch.io",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Open marketplace for indie games, assets and zines with flexible pay-what-you-want pricing."
+  },
+  {
+    "name": "Gumroad",
+    "url": "https://gumroad.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Simple storefront for creators to sell digital products, memberships and physical goods with instant payouts."
+  },
+  {
+    "name": "Open Collective",
+    "url": "https://opencollective.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Transparent fundraising and expense management for open-source communities and social-impact projects."
+  },
+  {
+    "name": "Liberapay",
+    "url": "https://liberapay.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Non-profit recurrent donations platform with zero platform fees and multi-currency support."
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Payments infrastructure for online and in-person businesses with APIs, fraud prevention and global payouts."
+  },
+  {
+    "name": "PayPal",
+    "url": "https://paypal.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Global payments platform supporting 100+ currencies with express checkout, subscriptions and invoicing."
+  },
+  {
+    "name": "Paddle",
+    "url": "https://paddle.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Merchant-of-record handling global tax, compliance and subscription billing for SaaS businesses."
+  },
+  {
+    "name": "Chargebee",
+    "url": "https://chargebee.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Subscription billing platform managing pricing, taxes, dunning and revenue recognition across 100+ currencies."
+  },
+  {
+    "name": "Google Pay",
+    "url": "https://pay.google.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Global payment method letting users check out with saved cards across web, Android and Chrome."
+  },
+  {
+    "name": "Apple Pay",
+    "url": "https://apple.com/apple-pay",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Secure one-tap checkout on iOS, macOS and Safari with tokenized card data and Face ID."
+  },
+  {
+    "name": "Amazon Pay",
+    "url": "https://pay.amazon.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Express checkout using Amazon accounts and saved addresses for higher conversion and trust."
+  },
+  {
+    "name": "PayU",
+    "url": "https://payu.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Leading payment gateway in emerging markets with 250+ local payment methods and risk engine."
+  },
+  {
+    "name": "Doku",
+    "url": "https://doku.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "Indonesian payment gateway supporting 20+ local methods, recurring billing and fraud prevention."
+  },
+  {
+    "name": "Spreedly",
+    "url": "https://spreedly.com",
+    "category": "\uD83D\uDCB8 PAYMENTS & FINANCE",
+    "description": "PCI-compliant vault and gateway router that lets you transact via 100+ payment providers."
+  },
+  {
+    "name": "QuickBooks",
+    "url": "https://quickbooks.intuit.com",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Small-business accounting software handling invoicing, expenses, payroll and tax prep with 5.6 M users."
+  },
+  {
+    "name": "Zoho Books",
+    "url": "https://zoho.com/books",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Online accounting for growing businesses with invoicing, inventory and GST compliance."
+  },
+  {
+    "name": "FreshBooks",
+    "url": "https://freshbooks.com",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Cloud accounting for freelancers with invoicing, time-tracking and mileage capture via mobile apps."
+  },
+  {
+    "name": "Sage 50",
+    "url": "https://sage.com/en-us/products/50",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Desktop accounting for established businesses managing inventory, job costing and multi-company consolidation."
+  },
+  {
+    "name": "Tipalti",
+    "url": "https://tipalti.com",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Global payables automation handling supplier onboarding, compliance and mass payouts in 190 countries."
+  },
+  {
+    "name": "vCita",
+    "url": "https://vcita.com",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "All-in-one business-management app for SMBs combining CRM, billing, scheduling and client portal."
+  },
+  {
+    "name": "Is It Worth the Cost",
+    "url": "https://isitworththecost.com",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Interactive calculator quantifying ROI of SaaS tools and infrastructure based on time saved."
+  },
+  {
+    "name": "Pry",
+    "url": "https://pry.co",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Real-time startup finance dashboard connecting bank, accounting and payroll for runway and burn insights."
+  },
+  {
+    "name": "Finmark",
+    "url": "https://finmark.com",
+    "category": "\uD83D\uDCC8 ACCOUNTING & MODELING",
+    "description": "Financial-modeling SaaS turning assumptions into investor-ready cap-tables, runway and scenario plans."
+  },
+  {
+    "name": "Growth Mentor Accelerators",
+    "url": "https://growthmentor.com/accelerators",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Curated directory of global accelerators with application deadlines, focus areas and alumni reviews."
+  },
+  {
+    "name": "Bridge for Billions",
+    "url": "https://bridgeforbillions.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Online incubation program matching early-stage founders with structured mentors and milestone-based growth tools."
+  },
+  {
+    "name": "NASA Startup Studio",
+    "url": "https://nasastartupstudio.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Program offering entrepreneurs NASA IP, mentorship and SBIR grants to build space tech."
+  },
+  {
+    "name": "OpenAI Fund",
+    "url": "https://openai.com/fund",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Equity investments and credits for startups building transformative applications on OpenAI models."
+  },
+  {
+    "name": "Gates Foundation",
+    "url": "https://gatesfoundation.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Grants for global health, education and financial services innovations with measurable impact metrics."
+  },
+  {
+    "name": "Mozilla MOSS",
+    "url": "https://mozilla.org/moss",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Grants supporting open-source projects that advance Internet health, privacy and decentralization."
+  },
+  {
+    "name": "Arnold Ventures",
+    "url": "https://arnoldventures.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Philanthropic fund backing rigorous research and scalable tech interventions in criminal-justice, health and education."
+  },
+  {
+    "name": "Thiel Fellowship",
+    "url": "https://thielfellowship.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "$100 k grant for entrepreneurs under 23 to drop out of college and build world-changing companies."
+  },
+  {
+    "name": "Sloan Foundation",
+    "url": "https://sloan.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Grants for research in STEM, economics and public policy with rigorous selection."
+  },
+  {
+    "name": "Emergent Ventures",
+    "url": "https://mercatus.org/emergent-ventures",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Fast micro-grants from Tyler Cowen funding high-risk, high-reward ideas across disciplines."
+  },
+  {
+    "name": "AI Grant",
+    "url": "https://aigrant.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "$5 k–$250 k no-equity grants for AI researchers and startups pushing the boundaries of ML."
+  },
+  {
+    "name": "FOSS United",
+    "url": "https://fossunited.org",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Indian non-profit funding and mentoring open-source projects via grants and hackathons."
+  },
+  {
+    "name": "Fundera Grants",
+    "url": "https://fundera.com/business-loans/grants",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Curated list of 1 k+ small-business grants and contests across industries and demographics."
+  },
+  {
+    "name": "Startup India",
+    "url": "https://startupindia.gov.in",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Official portal for Indian startup schemes, tax benefits and incubation programs."
+  },
+  {
+    "name": "Queensland Business Grants",
+    "url": "https://business.qld.gov.au/running-business/grants",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Government funding finder for Queensland startups covering R&D, export and innovation projects."
+  },
+  {
+    "name": "Side Project Grants",
+    "url": "https://sakofchit.com/side-project-grants",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Monthly micro-grants of $500–$2 k for indie hackers shipping side projects."
+  },
+  {
+    "name": "NASA Technology Transfer",
+    "url": "https://technology.nasa.gov",
+    "category": "\uD83C\uDF31 INCUBATORS & GRANTS",
+    "description": "Portal licensing NASA patents and software to startups and researchers for commercial use."
+  },
+  {
+    "name": "OpenVC",
+    "url": "https://openvc.app",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Open database of 50 k+ global VCs and angels searchable by ticket size, geo and sector."
+  },
+  {
+    "name": "DevTool Angels",
+    "url": "https://devtoolangels.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Syndicate of operators who invest cash and code reviews in early dev-tools startups."
+  },
+  {
+    "name": "AngelMatch",
+    "url": "https://angelmatch.io",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Curated investor database with verified emails, check-sizes and sector tags to streamline fundraising outreach."
+  },
+  {
+    "name": "Private Equity List",
+    "url": "https://privateequitylist.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Filterable directory of 3 k+ PE and growth-equity funds for later-stage fundraising."
+  },
+  {
+    "name": "Omidyar Network",
+    "url": "https://omidyar.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Impact-investment fund backing startups that reimagine social systems and emerging markets."
+  },
+  {
+    "name": "Vital Capital",
+    "url": "https://vitalcapital.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Impact fund financing essential infrastructure and agri-tech projects in Sub-Saharan Africa."
+  },
+  {
+    "name": "Triodos Bank",
+    "url": "https://triodos.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Sustainable bank offering loans and investment funds to businesses with positive social impact."
+  },
+  {
+    "name": "Reinvestment Fund",
+    "url": "https://reinvestment.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "CDFI providing capital to low-income communities and mission-driven real-estate projects."
+  },
+  {
+    "name": "BlueOrchard",
+    "url": "https://blueorchard.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Impact-investment pioneer offering blended-finance vehicles delivering measurable social returns."
+  },
+  {
+    "name": "Community Reinvestment Fund",
+    "url": "https://crfund.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "US CDFI providing flexible capital to small businesses and affordable-housing developers."
+  },
+  {
+    "name": "HockeyStick",
+    "url": "https://hockeystick.co",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Data platform matching startups with relevant investors and tracking fundraising progress."
+  },
+  {
+    "name": "Kickstarter",
+    "url": "https://kickstarter.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "All-or-nothing crowdfunding platform for creative projects, gadgets and games with built-in community."
+  },
+  {
+    "name": "Indiegogo",
+    "url": "https://indiegogo.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Global crowdfunding platform with flexible or fixed funding options and InDemand post-campaign sales."
+  },
+  {
+    "name": "Wefunder",
+    "url": "https://wefunder.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Regulation crowdfunding platform where anyone can invest as little as $100 in vetted startups."
+  },
+  {
+    "name": "StartEngine",
+    "url": "https://startengine.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Equity-crowdfunding portal for Regulation A+ and CF raises with secondary trading."
+  },
+  {
+    "name": "Republic",
+    "url": "https://republic.co",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Equity-crowdfunding platform letting anyone invest as little as $10 in vetted startups."
+  },
+  {
+    "name": "Crowd Supply",
+    "url": "https://crowdsupply.com",
+    "category": "\uD83D\uDCB0 INVESTORS & CROWDFUNDING",
+    "description": "Crowdfunding site for open-hardware and niche consumer products with manufacturing and fulfillment help."
+  },
+  {
+    "name": "Microsoft for Startups",
+    "url": "https://startups.microsoft.com",
+    "category": "\uD83C\uDF81 STARTUP FREEBIES",
+    "description": "Up to $150 k Azure credits, GitHub Enterprise and Microsoft 365 for qualifying early-stage startups."
+  },
+  {
+    "name": "Google for Startups",
+    "url": "https://cloud.google.com/startup",
+    "category": "\uD83C\uDF81 STARTUP FREEBIES",
+    "description": "Up to $200 k cloud credits, mentorship and technical training for seed to Series A startups."
+  },
+  {
+    "name": "Facebook for Startups",
+    "url": "https://facebook.com/startups",
+    "category": "\uD83C\uDF81 STARTUP FREEBIES",
+    "description": "Credits, mentorship and growth programs for early-stage companies building on Meta’s tech stack."
+  }
+]

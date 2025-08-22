@@ -1,0 +1,72 @@
+[
+  {
+    "id": "startup-school",
+    "name": "Startup School",
+    "slug": "startup-school",
+    "url": "https://startupschool.org",
+    "description": "Free 16-week YC curriculum with lectures, group sessions and AWS credits for early-stage founders.",
+    "tagline": "Free YC curriculum for early-stage founders.",
+    "category": "Startup",
+    "icon_lucide": "school",
+    "pricing_model": "free",
+    "rating_avg": 4.9,
+    "rating_count": 2500,
+    "upvotes": 1900
+  },
+  {
+    "id": "stripe-atlas",
+    "name": "Stripe Atlas",
+    "slug": "stripe-atlas",
+    "url": "https://stripe.com/atlas",
+    "description": "Incorporate a Delaware C-corp, issue founder stock and open a Silicon Valley bank account in days.",
+    "tagline": "The best way to start an internet business.",
+    "category": "Startup",
+    "icon_lucide": "building",
+    "pricing_model": "paid",
+    "rating_avg": 4.8,
+    "rating_count": 2200,
+    "upvotes": 1800
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "slug": "notion",
+    "url": "https://notion.so",
+    "description": "All-in-one workspace combining docs, databases and wikis with block-based editing and API.",
+    "tagline": "The all-in-one workspace for your notes, tasks, wikis, and databases.",
+    "category": "Productivity",
+    "icon_lucide": "book-marked",
+    "pricing_model": "freemium",
+    "rating_avg": 4.7,
+    "rating_count": 8800,
+    "upvotes": 6500
+  },
+  {
+    "id": "intercom",
+    "name": "Intercom",
+    "slug": "intercom",
+    "url": "https://intercom.com",
+    "description": "Conversational customer platform combining chatbots, product tours and proactive messaging across web and mobile.",
+    "tagline": "The customer messaging platform for sales, marketing, and support.",
+    "category": "Customer Support",
+    "icon_lucide": "message-circle",
+    "pricing_model": "paid",
+    "rating_avg": 4.5,
+    "rating_count": 4200,
+    "upvotes": 2900
+  },
+  {
+    "id": "angellist-recruit",
+    "name": "AngelList Recruit",
+    "slug": "angellist-recruit",
+    "url": "https://angel.co/recruit",
+    "description": "Global startup talent marketplace with 100k+ jobs showing salary/equity up-front.",
+    "tagline": "Where the world's startups hire.",
+    "category": "Hiring",
+    "icon_lucide": "users",
+    "pricing_model": "free",
+    "rating_avg": 4.6,
+    "rating_count": 3100,
+    "upvotes": 2400
+  }
+]

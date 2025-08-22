@@ -1,0 +1,72 @@
+[
+  {
+    "id": "github",
+    "name": "GitHub",
+    "slug": "github",
+    "url": "https://github.com",
+    "description": "100 M+ developer platform for code hosting, CI/CD and social coding via pull requests.",
+    "tagline": "The world's leading software development platform.",
+    "category": "Developer Tools",
+    "icon_lucide": "github",
+    "pricing_model": "freemium",
+    "rating_avg": 4.9,
+    "rating_count": 15000,
+    "upvotes": 12000
+  },
+  {
+    "id": "typescript",
+    "name": "TypeScript",
+    "slug": "typescript",
+    "url": "https://typescriptlang.org",
+    "description": "Typed superset of JavaScript that compiles to plain JS and catches errors at build time.",
+    "tagline": "JavaScript that scales.",
+    "category": "Developer Tools",
+    "icon_lucide": "code",
+    "pricing_model": "free",
+    "rating_avg": 4.8,
+    "rating_count": 7800,
+    "upvotes": 6200
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "slug": "react",
+    "url": "https://reactjs.org",
+    "description": "Component-based UI library by Facebook for building interactive, state-driven web interfaces.",
+    "tagline": "A JavaScript library for building user interfaces.",
+    "category": "Frameworks & Runtimes",
+    "icon_lucide": "atom",
+    "pricing_model": "free",
+    "rating_avg": 4.8,
+    "rating_count": 9500,
+    "upvotes": 7800
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "slug": "postgresql",
+    "url": "https://postgresql.org",
+    "description": "World’s most advanced open-source relational database with JSONB, full-text search and extensions.",
+    "tagline": "The world's most advanced open source relational database.",
+    "category": "Databases",
+    "icon_lucide": "database",
+    "pricing_model": "free",
+    "rating_avg": 4.9,
+    "rating_count": 8200,
+    "upvotes": 7100
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "slug": "vercel",
+    "url": "https://vercel.com",
+    "description": "Frontend cloud with zero-config deploys, edge functions and analytics for Next.js, Nuxt and more.",
+    "tagline": "Develop. Preview. Ship.",
+    "category": "Deployment",
+    "icon_lucide": "triangle",
+    "pricing_model": "freemium",
+    "rating_avg": 4.7,
+    "rating_count": 5500,
+    "upvotes": 4300
+  }
+]
